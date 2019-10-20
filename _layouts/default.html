@@ -22,11 +22,8 @@
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}<img src="boaz-photo.png" alt="Avatar" class="avatar"></h1>
-      .avatar {
-        width: 200px;
-        height: 200px;
-      }
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <img src="boaz-photo.png" alt="Avatar" class="avatar" height="200" width="200">
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_personal_links %}
          <a href="https://www.linkedin.com/in/boaz-rensenbrink" class="btn">LinkedIn</a>
