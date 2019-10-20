@@ -1,37 +1,22 @@
 ## Boaz Rensenbrink
 
-You can use the [editor on GitHub](https://github.com/Boaz-Rensenbrink/scrum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Cover Letter for My Future Employer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dear Ms. or Mr.
 
-### Markdown
+I would like to express my interest in the position of Scrum Master. With a long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships. I like to practice various ideas in my life and currenlty highly interested in field of software engineering. I believe my enthralment of technology will lead me to a scrum master who helps the dev team and the product owner fundamentally.
 
-```markdown
-Syntax highlighted code block
+While viewing my resume, you may notice a brief gap in my work experience. I resigned from my previous position as a result of much sadness from the sudden death of my mother. I am now well-arranged and willing to take the next steps in my career.
+Please take a moment to view my enclosed resume. I would like to have the opportunity to talk to you about my candidacy for the role of Scrum Master or have a coffee with you.
 
-# Header 1
-## Header 2
-### Header 3
+I look forward to your response and thank you for your consideration.
 
-- Bulleted
-- List
+With kind regards & thanks in advance,
+Boaz Rensenbrink
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boaz-Rensenbrink/scrum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: BoazRensenbrink@gmail.com
+Phone: 0612113812
