@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 title: Boaz Rensenbrink
 description: Scrum Master
-plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+show_downloads: "true" or "false" 
+google_analytics: UA-150421771-1
