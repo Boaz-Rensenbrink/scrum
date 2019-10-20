@@ -4,3 +4,4 @@ description: Scrum Master
 topics: 
 -name:css
 web_url: https://github.com/topics/css
+permalink: /:year/:month/:day/:title/
