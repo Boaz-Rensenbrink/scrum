@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Boaz Rensenbrink
 description: Scrum Master
 google_analytics: UA-150421771-1
+show_personal_links: true
