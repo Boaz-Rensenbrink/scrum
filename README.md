@@ -20,13 +20,13 @@ Boaz Rensenbrink
 ### Contact
 
 
-[LinkedIn:] (https://www.linkedin.com/in/boaz-rensenbrink/) 
+[](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Business LinkedIn:] (https://www.linkedin.com/company/scrumwithboaz/about)
+[] (https://www.linkedin.com/company/scrumwithboaz/about)
 
-[Email:] (BoazRensenbrink@gmail.com)
+[] (BoazRensenbrink@gmail.com)
 
-[Github:] (https://boaz-rensenbrink.github.io/scrum/)
+[] (https://boaz-rensenbrink.github.io/scrum/)
 
 
 ## Boaz Rensenbrink
