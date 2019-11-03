@@ -22,11 +22,11 @@ Boaz Rensenbrink
 
 [](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[] (https://www.linkedin.com/company/scrumwithboaz/about)
+[](https://www.linkedin.com/company/scrumwithboaz/about)
 
-[] (BoazRensenbrink@gmail.com)
+[](BoazRensenbrink@gmail.com)
 
-[] (https://boaz-rensenbrink.github.io/scrum/)
+[](https://boaz-rensenbrink.github.io/scrum/)
 
 
 ## Boaz Rensenbrink
