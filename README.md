@@ -9,8 +9,10 @@ With a long track record as a project manager and a team lead at Singelfilm and 
 
 Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships. I like to practice various ideas in my life and currently highly interested in field of software engineering. I believe my enthusiasm of technology will lead me to a Scrum Master/Project Manager/Team Leader who helps the team and the product owner fundamentally.
 
-While viewing my resume, you may notice a brief gap in my work experience. I resigned from my previous position as a result of much sadness from the sudden death of my mother. I am now well-arranged and willing to take the next steps in my career.
-Please take a moment to view my enclosed resume. I would like to have the opportunity to talk to you about my candidacy for the role of Scrum Master/Project Manager/Team Leader or have a coffee with you.
+While viewing my resume, you may notice a brief gap in my work experience. I resigned from my previous position as a result of much sadness from the sudden death of my mother. 
+I am now well-arranged and willing to take the next steps in my career.
+Please take a moment to view my enclosed resume. 
+I would like to have the opportunity to talk to you about my candidacy for the role of Scrum Master/Project Manager/Team Leader or have a coffee with you.
 
 I look forward to your response and thank you for your consideration.
 
