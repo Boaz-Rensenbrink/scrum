@@ -20,7 +20,7 @@ Boaz Rensenbrink
 ### Contact
 
 
-LinkedIn: https://www.linkedin.com/in/boaz-rensenbrink/ 
+[LinkedIn:] (https://www.linkedin.com/in/boaz-rensenbrink/) 
 
 [Business LinkedIn:] (https://www.linkedin.com/company/scrumwithboaz/about)
 
