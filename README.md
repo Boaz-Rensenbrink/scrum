@@ -31,13 +31,15 @@ Boaz Rensenbrink
 Phone: +31(0)6 12 11 38 12
 
 
+
 ## Boaz Rensenbrink
 
-### Motivatie Brief voor mijn toekomstige werkgever
+### Motivatie brief voor mijn toekomstige werkgever
 
 Geachte mevrouw of mijnheer,
 
-Ik wil graag mijn interesse tonen in de functie van Scrum Master/Project/Teamleider. Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en Hocras, geloof ik dat ik waarde voor uw bedrijf zal brengen.
+Graag wil ik mijn interesse tonen in de functie van Scrum Master/Project/Teamleider. 
+Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en Hocras, geloof ik dat ik waarde voor uw bedrijf zal brengen.
 Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën bijgedragen en mijn vorige bedrijven geholpen om de klanten database met succes uit te breiden en sterke klantrelaties te onderhouden. Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering.
 
 Ik geloof dat mijn enthousiasme voor technologie me zal leiden naar een Scrum Master/Project/Teamleider die het team en de producteigenaar fundamenteel helpt.
