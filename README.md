@@ -19,7 +19,6 @@ Boaz Rensenbrink
 
 ### Contact
 
-Phone: +31(0)6 12 11 38 12
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
@@ -28,6 +27,8 @@ Phone: +31(0)6 12 11 38 12
 [Email](BoazRensenbrink@gmail.com)
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
+
+Phone: +31(0)6 12 11 38 12
 
 
 ## Boaz Rensenbrink
@@ -53,12 +54,13 @@ Boaz Rensenbrink
 
 ### Contact
 
+
+[LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
+
+[BusinessPage](https://www.linkedin.com/company/scrumwithboaz/about)
+
+[Email](BoazRensenbrink@gmail.com)
+
+[GitHub](https://boaz-rensenbrink.github.io/scrum/)
+
 Mobiel: +31(0)6 12 11 38 12
-
-[LinkedIn]: (https://www.linkedin.com/in/boaz-rensenbrink/)
-
-[LinkedIn:] (https://www.linkedin.com/company/scrumwithboaz/about)
-
-[Email:] (BoazRensenbrink@gmail.com)
-
-[Github:] (https://boaz-rensenbrink.github.io/scrum/)
