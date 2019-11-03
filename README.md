@@ -19,9 +19,16 @@ Boaz Rensenbrink
 
 ### Contact
 
-Email: BoazRensenbrink@gmail.com
-Phone: +31(0)6 12 11 38 12
 
+LinkedIn: https://www.linkedin.com/in/boaz-rensenbrink/ 
+
+Email: BoazRensenbrink@gmail.com
+
+Github: https://boaz-rensenbrink.github.io/scrum/
+
+## Boaz Rensenbrink
+
+### Motivatie Brief voor mijn toekomstige werkgever
 
 Geachte mevrouw of mijnheer,
 
