@@ -17,6 +17,7 @@ I would like to have the opportunity to talk to you about my candidacy for the r
 I look forward to your response and thank you for your consideration.
 
 With kind regards & thanks in advance,  
+
 Boaz Rensenbrink
 
 ### Contact
