@@ -48,7 +48,8 @@ Ik geloof dat mijn enthousiasme voor technologie me zal leiden naar een Scrum Ma
 
 Terwijl u mijn cv bekijkt, zie je misschien een korte onderbreking in mijn werkervaring. Ik nam ontslag uit mijn vorige functie als gevolg van veel verdriet van de plotselinge dood van mijn moeder.
 
-Ik ben nu goed geregeld en bereid om de volgende stappen in mijn carrière te zetten. Neem even de tijd om mijn bijgevoegde CV te bekijken.
+Ik ben nu goed geregeld en bereid om de volgende stappen in mijn carrière te zetten. 
+Neem even de tijd om mijn bijgevoegde CV te bekijken.
 Graag wil ik de kans krijgen om met u te praten over mijn kandidatuur voor de rol van Scrum Master/Project/Teamleider of een koffie met u te drinken.
 
 Ik zie uit naar uw reactie en bedankt voor je aandacht.
