@@ -41,21 +41,24 @@ Phone: +31(0)6 12 11 38 12
 
 Geachte mevrouw of mijnheer,
 
-Graag wil ik mijn interesse tonen in de functie van Scrum Master/Project/Teamleider. 
-Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en Hocras, geloof ik dat ik waarde voor uw bedrijf zal brengen.
-Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën bijgedragen en mijn vorige bedrijven geholpen om de klanten database met succes uit te breiden en sterke klantrelaties te onderhouden. Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering.
+Graag toon ik mijn interesse in de functie Scrum Master/Project/Teamleider. Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en de Hocras, zal ik een goede aanvulling voor uw bedrijf zijn. 
 
-Ik geloof dat mijn enthousiasme voor technologie me zal leiden naar een Scrum Master/Project/Teamleider die het team en de producteigenaar fundamenteel helpt.  
+Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden.
+Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering. 
 
-Terwijl u mijn cv bekijkt, zie je misschien een korte onderbreking in mijn werkervaring. Ik nam ontslag uit mijn vorige functie als gevolg van veel verdriet van de plotselinge dood van mijn moeder.
+Ik geloof dat mijn enthousiasme me zal leiden naar een Scrum Master/Project/Teamleider die het bedrijf fundamenteel helpt. 
 
-Ik ben nu goed geregeld en bereid om de volgende stappen in mijn carrière te zetten. 
-Neem even de tijd om mijn bijgevoegde CV te bekijken.  
-Graag wil ik de kans krijgen om met u te praten over mijn kandidatuur voor de rol van Scrum Master/Project/Teamleider of een koffie met u te drinken.
+Terwijl u mijn cv bekijkt, ziet u misschien een korte onderbreking in mijn werkervaring. 
+Ik nam ontslag uit mijn vorige functie als gevolg van veel verdriet van de plotselinge dood van mijn moeder. 
 
-Ik zie uit naar uw reactie en bedankt voor je aandacht.
+Ik ben nu goed geregeld en bereid om de volgende stappen in mijn carrière te zetten. 
+Graag krijg ik de kans om mijn cv en motivatie met u door te nemen en uw vragen te beantwoorden.
 
-Met vriendelijke groeten en alvast bedankt,
+Ik kijk uit naar uw reactie en bedankt voor uw tijd. 
+
+
+Met vriendelijke groeten en bijvoorbaat dank, 
+
 
 Boaz Rensenbrink
 
