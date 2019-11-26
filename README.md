@@ -45,8 +45,7 @@ Graag toon ik mijn interesse in de functie Scrum Master/Project/Teamleider. Met 
 
 Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden.
 Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering. 
-
-Ik geloof dat mijn enthousiasme me zal leiden naar een Scrum Master/Project/Teamleider die het bedrijf fundamenteel helpt. 
+Ik geloof dat mijn enthousiasme me zal leiden naar een Scrum Master/Project/Teamleider uw bedrijf fundamenteel helpt. 
 
 Terwijl u mijn cv bekijkt, ziet u misschien een korte onderbreking in mijn werkervaring. 
 Ik nam ontslag uit mijn vorige functie als gevolg van veel verdriet van de plotselinge dood van mijn moeder. 
