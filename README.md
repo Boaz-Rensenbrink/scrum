@@ -4,7 +4,7 @@
 
 Dear Ms. or Mr.
 
-I would like to express my interest in the position of Scrum Master/Project Manager/Team Leader.
+I would like to express my interest in the position of Scrum Master.
 With a long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
 
 Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships. I like to practice various ideas in my life and currently highly interested in field of software engineering. I believe my enthusiasm of technology will lead me to a Scrum Master/Project Manager/Team Leader who helps the team and the product owner fundamentally.
@@ -14,7 +14,7 @@ I am now well-arranged and willing to take the next steps in my career.
 
 Please take a moment to view my enclosed resume. 
 
-I would like to have the opportunity to talk to you about my candidacy for the role of Scrum Master/Project Manager/Team Leader or have a coffee with you.
+I would like to have the opportunity to talk to you about my candidacy for the role of Scrum Master or have coffee with you.
 
 I look forward to your response and thank you for your consideration.
 
@@ -44,11 +44,11 @@ Phone: +31(0)6 12 11 38 12
 
 Geachte mevrouw of mijnheer,
 
-Graag toon ik mijn interesse in de functie Scrum Master/Project/Teamleider. Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en de Hocras, zal ik een goede aanvulling voor uw bedrijf zijn. 
+Graag toon ik mijn interesse in de functie Scrum Master. Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en de Hocras, zal ik een goede aanvulling voor uw bedrijf zijn. 
 
 Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden.
 Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering. 
-Ik geloof dat mijn enthousiasme me zal leiden naar een Scrum Master/Project/Teamleider uw bedrijf fundamenteel helpt. 
+Ik geloof dat mijn enthousiasme me zal leiden naar een Scrum Master uw bedrijf fundamenteel helpt. 
 
 Terwijl u mijn cv bekijkt, ziet u misschien een korte onderbreking in mijn werkervaring. 
 Ik nam ontslag uit mijn vorige functie als gevolg van veel verdriet van de plotselinge dood van mijn moeder. 
