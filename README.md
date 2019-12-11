@@ -1,4 +1,4 @@
-## Boaz Rensenbrink CSM®
+## Boaz Rensenbrink
 
 ### Cover Letter for My Future Employer
 
