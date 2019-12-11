@@ -22,6 +22,9 @@ With kind regards & thanks in advance,
 
 Boaz Rensenbrink
 
+### Scrum Master Certificate
+![Certificate](CSM.png)
+
 
 ### Contact
 
