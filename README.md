@@ -6,6 +6,7 @@ Dear Ms. or Mr.
 
 
 I would like to express my interest in the position of question.
+
 Having my own consultancy company and long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
 
 Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships while introducing new frameworks that foster collaboration and efficiency. 
