@@ -48,7 +48,6 @@ Boaz Rensenbrink
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
 
-Phone: +31(0)6 12 11 38 12
 
 ----------------------------------------------------
 
