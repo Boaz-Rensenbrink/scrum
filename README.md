@@ -4,21 +4,28 @@
 
 Dear Ms. or Mr.
 
-I would like to express my interest in the position of Scrum Master.
-With a long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
 
-Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships. I like to practice various ideas in my life and currently highly interested in field of software engineering. I believe my enthusiasm of technology will lead me to a Scrum Master/Project Manager/Team Leader who helps the team and the product owner fundamentally.
+I would like to express my interest in the position of question.
+Having my own consultancy company and long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
 
-While viewing my resume, you may notice a brief gap in my work experience. I resigned from my previous position as a result of much sadness from the sudden death of my mother.  
-I am now well-arranged and willing to take the next steps in my career.  
+Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships while introducing new frameworks that foster collaboration and efficiency. 
+I like to practice various ideas in my life and I'm currently highly interested in full-stack software engineering, business infrastrucure, agile frameworks and effective education. 
+I believe my enthusiasm & creativity will lead me to a great asset within your company and helps the team fundamentally.
+
+While viewing my resume, you may notice a brief gap in my work experience. Which is a personal matter and we can discuss privately. 
+
 
 Please take a moment to view my enclosed resume. 
+I would like to have the opportunity to talk to you about my candidacy for the role in question and discuss it over a cup of coffee.
 
-I would like to have the opportunity to talk to you about my candidacy for the role of Scrum Master or have coffee with you.
 
-I look forward to your response and thank you for your consideration.
+I look forward to your response and your consideration is much appreciated.
+
 
 With kind regards & thanks in advance,  
+
+
+Sincerely,
 
 Boaz Rensenbrink
 
@@ -50,22 +57,23 @@ Phone: +31(0)6 12 11 38 12
 
 Geachte mevrouw of mijnheer,
 
-Graag toon ik mijn interesse in de functie Scrum Master. Met een lange staat van dienst als projectmanager en teamleider bij Singelfilm en de Hocras, zal ik een goede aanvulling voor uw bedrijf zijn. 
+Graag toon ik mijn interesse in uw openstaande vacature.
 
-Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden.
-Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering. 
-Ik geloof dat mijn enthousiasme me zal leiden naar een Scrum Master uw bedrijf fundamenteel helpt. 
+Naast het runnen van een eigen consultancybedrijf en een lange staat van dienst als project manager en team lead bij Singelfilm en de Hocras, zal ik een goede aanvulling voor uw bedrijf zijn. 
 
-Terwijl u mijn cv bekijkt, ziet u misschien een korte onderbreking in mijn werkervaring. 
-Ik nam ontslag uit mijn vorige functie als gevolg van veel verdriet van de plotselinge dood van mijn moeder. 
+Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden naast het introduceren van nieuwe werkwijzen om samenwerking en efficiëntie te bevorderen.
+Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering, bedrijfs infrastructuur, agile werkwijzen en doelgerichte opleiding. 
+Ik geloof dat mijn enthousiasme en creativiteit me zal leiden naar een onmisbare schakel die uw bedrijf fundamenteel helpt. 
 
-Ik ben nu goed geregeld en bereid om de volgende stappen in mijn carrière te zetten. 
+Terwijl u mijn cv bekijkt, ziet u misschien een korte onderbreking in mijn werkervaring. Dit betreft een privé kwestie die ik graag persoonlijk met u bespreek. 
+
+
 Graag krijg ik de kans om mijn cv en motivatie met u door te nemen en uw vragen te beantwoorden.
 
 Ik kijk uit naar uw reactie en bedankt voor uw tijd. 
 
 
-Met vriendelijke groeten en bijvoorbaat dank, 
+Met vriendelijke groeten en bij voorbaat dank, 
 
 
 Boaz Rensenbrink
@@ -80,5 +88,3 @@ Boaz Rensenbrink
 [Email](BoazRensenbrink@gmail.com)
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
-
-Mobiel: +31(0)6 12 11 38 12
