@@ -10,7 +10,7 @@ I would like to express my interest in the position of question.
 Having my own consultancy company and long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
 
 Although I do not have a HBO degree, I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships while introducing new frameworks that foster collaboration and efficiency. 
-I like to practice various ideas in my life and I'm currently highly interested in full-stack software engineering, business infrastrucure, agile frameworks and effective education. 
+I like to practice various ideas in my life and I'm currently highly interested in full-stack software engineering, business infrastructure, agile frameworks and effective education. 
 I believe my enthusiasm & creativity will lead me to a great asset within your company and helps the team fundamentally.
 
 While viewing my resume, you may notice a brief gap in my work experience. Which is a personal matter and we can discuss privately. 
