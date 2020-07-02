@@ -35,6 +35,7 @@ Boaz Rensenbrink
 
 
 ![Certificate](CSM.png)
+![Certificate](CSM.png)
 
 
 ### Contact
@@ -42,9 +43,9 @@ Boaz Rensenbrink
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[BusinessPage](https://www.linkedin.com/company/scrumwithboaz/about)
+[BusinessPage](https://www.linkedin.com/company/umbrellaconsult/about)
 
-[Email](BoazRensenbrink@gmail.com)
+[Email](scrumwithboaz@gmail.com)
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
 
@@ -83,8 +84,8 @@ Boaz Rensenbrink
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Zakelijke Pagina](https://www.linkedin.com/company/scrumwithboaz/about)
+[Zakelijke Pagina](https://www.linkedin.com/company/umbrellaconsult/about)
 
-[Email](BoazRensenbrink@gmail.com)
+[Email](scrumwithboaz@gmail.com)
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
