@@ -35,7 +35,7 @@ Boaz Rensenbrink
 
 
 ![Certificate](CSM.png)
-![Certificate](Certificate Front End Development.png.png)
+![Certificate](FED.png)
 
 
 ### Contact
