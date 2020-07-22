@@ -13,7 +13,6 @@ Although I do not have a HBO degree, I have contributed more than 10 years of e
 I like to practice various ideas in my life and I'm currently highly interested in full-stack software engineering, business infrastructure, agile frameworks and effective education. 
 I believe my enthusiasm & creativity will lead me to a great asset within your company and helps the team fundamentally.
 
-While viewing my resume, you may notice a brief gap in my work experience. Which is a personal matter and we can discuss privately. 
 
 
 Please take a moment to view my enclosed resume. 
@@ -66,7 +65,6 @@ Hoewel ik geen HBO-diploma heb, heb ik meer dan 10 jaar ervaring in verschillend
 Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering, bedrijfs infrastructuur, agile werkwijzen en doelgerichte opleiding. 
 Ik geloof dat mijn enthousiasme en creativiteit me zal leiden naar een onmisbare schakel die uw bedrijf fundamenteel helpt. 
 
-Terwijl u mijn cv bekijkt, ziet u misschien een korte onderbreking in mijn werkervaring. Dit betreft een privé kwestie die ik graag persoonlijk met u bespreek. 
 
 
 Graag krijg ik de kans om mijn cv en motivatie met u door te nemen en uw vragen te beantwoorden.
