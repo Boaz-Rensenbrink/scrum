@@ -48,9 +48,11 @@ Boaz Rensenbrink
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[BusinessPage](https://www.linkedin.com/company/umbrellaconsult/about)
+[Business Page](http://scrumwithboaz.nl/)
 
-[Email](scrumwithboaz@gmail.com)
+[Business LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
+
+[Email](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
 
@@ -92,6 +94,6 @@ Boaz Rensenbrink
 
 [Zakelijke Pagina](http://scrumwithboaz.nl/)
 
-[Email](Info@ScrumWithBoaz.nl)
+[Email](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
