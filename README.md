@@ -48,6 +48,7 @@ Boaz Rensenbrink
 
 ### Contact
 
+[GitHub](https://boaz-rensenbrink.github.io/scrum/)
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
@@ -57,7 +58,7 @@ Boaz Rensenbrink
 
 [Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
 
-[GitHub](https://boaz-rensenbrink.github.io/scrum/)
+
 
 
 ----------------------------------------------------
