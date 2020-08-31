@@ -93,11 +93,11 @@ Boaz Rensenbrink
 
 [GitHub](https://boaz-rensenbrink.github.io/scrum/)
 
-[Zakelijke LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
-
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
 [Zakelijke Pagina](http://scrumwithboaz.nl/)
+
+[Zakelijke LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
 [Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
 
