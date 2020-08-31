@@ -90,13 +90,14 @@ Boaz Rensenbrink
 
 ### Contact
 
-
-[LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
+[GitHub](https://boaz-rensenbrink.github.io/scrum/)
 
 [Zakelijke LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
+
+[LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
 [Zakelijke Pagina](http://scrumwithboaz.nl/)
 
 [Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
 
-[GitHub](https://boaz-rensenbrink.github.io/scrum/)
+
