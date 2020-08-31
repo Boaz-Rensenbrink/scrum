@@ -41,7 +41,7 @@ Boaz Rensenbrink
 
 ![Certificate](CSM.png)
 
-### HTML,CSS,JavaScript Fundementals Certificate  (Front End Development Certificate)
+### HTML,CSS, JavaScript Fundementals Certificate  (Front End Development Certificate)
 
 ![Certificate](FED.png)
 
