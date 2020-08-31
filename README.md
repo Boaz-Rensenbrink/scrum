@@ -33,7 +33,7 @@ Boaz Rensenbrink
 [Certificate Credential Link](https://www.scrum.org/certificates/568374)
 
 
-![Certificate](PSM I CERTIFICATE.png)
+![Certificate](PSM.png)
 
 ### Certified Scrum Master Certificate  (CSM)
 [Certificate Credential Link](https://www.credential.net/cdf72282-aa89-4c81-8e24-120375555c3d)
