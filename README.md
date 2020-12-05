@@ -7,10 +7,10 @@ Dear Ms. or Mr.
 
 I would like to express my interest in the position of question.
 
-Having my own consultancy company and long track record as a project manager and a team lead at Singelfilm and Hocras, I believe I will bring value to your company.
+Having my own consultancy company, being the chairman of my homeowners association, serving as a interation coach for refugees I also have a long track record as a agile project coordinator and a senior team lead at Singelfilm and Hocras, that makes me believe I will bring value to your company.
 
 I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships while introducing new frameworks that foster collaboration and efficiency. 
-I like to practice various ideas in my life and I'm currently highly interested in full-stack software engineering, business infrastructure, agile frameworks and effective education. 
+I like to practice various ideas in my life and I'm currently highly interested in back-end software development, business infrastructure, agile frameworks and effective education. 
 I believe my enthusiasm & creativity will lead me to a great asset within your company and helps the team fundamentally.
 
 
@@ -72,11 +72,11 @@ Geachte mevrouw of mijnheer,
 
 Graag toon ik mijn interesse in uw openstaande vacature.
 
-Naast het runnen van een eigen consultancybedrijf en een lange staat van dienst als project manager en team lead bij Singelfilm en de Hocras, zal ik een goede aanvulling voor uw bedrijf zijn. 
+Naast het runnen van een eigen consultancybedrijf, voorzitter van mijn VVE en interatie coach voor vluchtelingen heb ik ook een lange staat van dienst als agile project coordinator en senior team lead bij Singelfilm en de Hocras, en zal ik een goede aanvulling voor uw bedrijf zijn. 
 
-Ik meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden naast het introduceren van nieuwe werkwijzen om samenwerking en efficiëntie te bevorderen.
-Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in software engineering, bedrijfs infrastructuur, agile werkwijzen en doelgerichte opleiding. 
-Ik geloof dat mijn enthousiasme en creativiteit me zal leiden naar een onmisbare schakel die uw bedrijf fundamenteel helpt. 
+Ik heb meer dan 10 jaar ervaring in verschillende industrieën en mijn vorige bedrijven geholpen om de klanten bestand met succes uit te breiden en sterke klantrelaties te onderhouden naast het introduceren van nieuwe werkwijzen om samenwerking en efficiëntie te bevorderen.
+Ik oefen graag verschillende ideeën in mijn leven en ben momenteel zeer geïnteresseerd in back-end development, bedrijfs infrastructuur, agile raamwerken en doelgerichte educatie. 
+Ik geloof dat mijn enthousiasme, creativiteit en motivatie me zal leiden naar een onmisbare schakel die uw bedrijf fundamenteel helpt. 
 
 
 
