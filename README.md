@@ -2,7 +2,7 @@
 
 ### Cover Letter for My Future Employer
 
-Dear Ms. or Mr.
+Dear Ms. or Mr. 
 
 
 I would like to express my interest in the position of question.
