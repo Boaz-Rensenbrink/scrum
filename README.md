@@ -48,7 +48,7 @@ Boaz Rensenbrink
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Business Page](http://scrumwithboaz.nl/)
+[Business Page](https://scrumwithboaz.com/)
 
 [Business LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
@@ -88,10 +88,10 @@ Boaz Rensenbrink
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Zakelijke Pagina](http://scrumwithboaz.nl/)
+[Zakelijke Pagina](https://scrumwithboaz.com/)
 
 [Zakelijke LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
-[Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
+[hello@ScrumWithBoaz.com](https://scrumwithboaz.com)
 
 
