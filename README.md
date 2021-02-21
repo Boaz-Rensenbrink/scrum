@@ -7,15 +7,13 @@ Dear Ms. or Mr.
 
 I would like to express my interest in the position of question.
 
-Having my own consultancy company, being the chairman of my homeowners association, serving as a interation coach for refugees I also have a long track record as a agile project coordinator and a senior team lead at Singelfilm and Hocras, that makes me believe I will bring value to your company.
-
-I have contributed more than 10 years of experience to a variety of industries and helped my previous companies to successfully expand the client databases and maintained strong client relationships while introducing new frameworks that foster collaboration and efficiency. 
-I like to practice various ideas in my life and I'm currently highly interested in back-end software development, business infrastructure, agile frameworks and effective education. 
-I believe my enthusiasm & creativity will lead me to a great asset within your company and helps the team fundamentally.
-
+Eversince I succesfully introduced a made to fit agile framework in to Singelfilm and coached the organization and it's members in adapting the new mindset, I like to practise scrum in my daily life and my journey started to take shape.
+Sadly Singelfilm developted and maintained a unrealistic company view and strongly started to enforced this unsustainable vision. In combination with a dear family loss and not being able to get the appropriate space within Singelfilm, I decided to go on sabbatical leave and I traveld in Europe, the Middle East & Asia for one year. 
+Now my goal was more clear than ever and I tried my luck applying for scrum master roles. Surely I found out this was very ambitious and never landed a second interview. 
+Not wanting to wait, I openend a freelance company and offered my knowledge & expertice this way. Sadly without luck. I started to volunteer so I wouldn't alianate in a applying bubble and lose my coaching abilities.
 
 
-Please take a moment to view my enclosed resume. 
+ 
 I would like to have the opportunity to talk to you about my candidacy for the role in question and discuss it over a cup of coffee.
 
 
@@ -80,7 +78,6 @@ Ik geloof dat mijn enthousiasme, creativiteit en motivatie me zal leiden naar ee
 
 
 
-Graag krijg ik de kans om mijn cv en motivatie met u door te nemen en uw vragen te beantwoorden.
 
 Ik kijk uit naar uw reactie en bedankt voor uw tijd. 
 
