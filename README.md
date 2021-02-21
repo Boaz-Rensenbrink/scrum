@@ -52,7 +52,7 @@ Boaz Rensenbrink
 
 [Business LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
-[Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
+[hello@ScrumWithBoaz.com](https://scrumwithboaz.com/https/-/scrumwithboaz-com/)
 
 
 
