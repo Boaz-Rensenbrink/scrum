@@ -9,7 +9,9 @@ I would like to express my interest in the position of question.
 
 Eversince I succesfully introduced a made to fit agile framework in to Singelfilm and coached the organization and it's members in adapting the new mindset, I like to practise scrum in my daily life and my journey started to take shape.
 Sadly Singelfilm developted and maintained a unrealistic company view and strongly started to enforced this unsustainable vision. In combination with a dear family loss and not being able to get the appropriate space within Singelfilm, I decided to go on sabbatical leave and I traveld in Europe, the Middle East & Asia for one year. 
-Now my goal was more clear than ever and I tried my luck applying for scrum master roles. Surely I found out this was very ambitious and never landed a second interview. 
+Now my goal was more clear than ever and I tried my luck applying for scrum master roles. 
+Surely I found out this was very ambitious and never landed a second interview. 
+
 Not wanting to wait, I openend a freelance company and offered my knowledge & expertice this way. Sadly without luck. I started to volunteer so I wouldn't alienate in a applying bubble and lose my coaching abilities.
 
 Why do I want to become a Scrum Master:
