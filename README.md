@@ -13,6 +13,7 @@ Now my goal was more clear than ever and I tried my luck applying for scrum mast
 Not wanting to wait, I openend a freelance company and offered my knowledge & expertice this way. Sadly without luck. I started to volunteer so I wouldn't alienate in a applying bubble and lose my coaching abilities.
 
 Why do I want to become a Scrum Master:
+
 I love working with people, I can read them very well and I listen acively to the words not being said. I get energy from the delopment and growth from people I help, coach.
 My Girlfriend is from Asia, and overall people from that area are very shy and over polite. They don't speak their mind and stand up for their opinion.
 Since corona she is working from home and I coach her every day and see her grow with big jumps in a strong assertive person that will stand up for her opinion in her team or any other group. This makes me so happy, this delopment, this irreversible growth. Amazing. I am cableble and jumping to grow an entire team or teams, better yet a entire organization! 
