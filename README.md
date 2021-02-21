@@ -15,7 +15,7 @@ Why do I want to become a Scrum Master:
 I love working with people, I can read them very well and I listen actively to the words not being said. I get energy from the development and growth of people I help, coach. My Girlfriend is from Asia, and overall people from that area are very shy and over-polite. They don’t speak their mind and stand up for their opinion. Since March she is working from home and I coach her every day and see her grow with big jumps in a strong assertive person that will stand up for her opinion in her team or any other group. This makes me so happy, this development, this irreversible growth. Amazing.
 I am capable and jumping to grow an entire team or teams, better yet an entire organization!
 
-I would like to have the opportunity to talk to you about my candidacy for the role in question and discuss it over a cup of coffee.
+I would like to have the opportunity to talk to you about my candidacy for the role in question and discuss it in person or over a virtual cup of coffee.
 
 I look forward to your response and your consideration is much appreciated.
 
