@@ -11,7 +11,7 @@ Ever since I successfully introduced a made-to-fit agile framework into Singelfi
 Now my goal was more clear than ever and I tried my luck applying for scrum master roles. Surely I found out this was very ambitious and never landed a second interview.
 Not wanting to wait, I opened a freelance company and offered my knowledge & expertise this way. Sadly without luck. I started to volunteer so I wouldn’t alienate myself in an applying bubble and lose my coaching abilities.
 
-Why do I want to become a Scrum Master:
+**Why do I want to become a Scrum Master:**
 I love working with people, I can read them very well and I listen actively to the words not being said. I get energy from the development and growth of people I help, coach. My Girlfriend is from Asia, and overall people from that area are very shy and over-polite. They don’t speak their mind and stand up for their opinion. Since March she is working from home and I coach her every day and see her grow with big jumps in a strong assertive person that will stand up for her opinion in her team or any other group. This makes me so happy, this development, this irreversible growth. Amazing.
 I am capable and jumping to grow an entire team or teams, better yet an entire organization!
 
