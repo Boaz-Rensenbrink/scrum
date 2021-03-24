@@ -4,22 +4,15 @@
 
 Dear Ms. or Mr.
 
-I would like to express my interest in the position of question.
+Based on my experience I see how important the role of Scrum Master is and the impact it has on the entire Scrum framework. I believe in Agility and thrive in the dynamics of a Scrum team.
+To have different specialists from their own (non-IT) field work together intensively and to create and develop a high-quality working product in a short time, that gives me a challenge!
 
-Ever since I successfully introduced a made-to-fit agile framework into Singelfilm and coached the organization and its members in adapting the new mindset, I like to practice scrum in my daily life and my journey started to take shape. Sadly Singelfilm developed and maintained an unrealistic company view and strongly started to enforced this unsustainable vision. In combination with a dear family loss and not being able to get the appropriate space within Singelfilm, I decided to go on sabbatical leave and I traveled in Europe, the Middle East & Asia for one year. 
+Generating insight of the added value of working Agile, implementing the Scrum events and the development of the teams energy, that are my goals. By coaching colleagues and upper management and making them aware of the working of the Agile framework I can evolve them in the development of the teams and indicate what is expected from them to help the team grow in their own role and responsibility. This is done regularly on the basis of theory. But I prefer a pragmatic approach. Working together to achieve something great!
 
-Now my goal was more clear than ever and I tried my luck applying for scrum master roles. Surely I found out this was very ambitious and never landed a second interview.
-Not wanting to wait, I opened a freelance company and offered my knowledge & expertise this way. Sadly without luck. I started to volunteer so I wouldn’t alienate myself in an applying bubble and lose my coaching abilities.
+I am well aware of the individual wishes and needs of the team members and help them explore what works within the larger framework of Agile working within ****.
 
-**Why do I want to become a Scrum Master:**
-I love working with people, I can read them very well and I listen actively to the words not being said. I get energy from the development and growth of people I help, coach. My Girlfriend is from Asia, and overall people from that area are very shy and over-polite. They don’t speak their mind and stand up for their opinion. Since March she is working from home and I coach her every day and see her grow with big jumps in a strong assertive person that will stand up for her opinion in her team or any other group. This makes me so happy, this development, this irreversible growth. Amazing.
-I am capable and jumping to grow an entire team or teams, better yet an entire organization!
+Years of work experience in different organizations has given me a lot of insights on how to get the best out of 'my' teams. An open and transparent attitude with an honest dialogue is indispensable for me in a working environment. Sometimes this goes without saying, but just as often it is hard work. A sense of security within a team is an important building block for this.
 
-I would like to have the opportunity to talk to you about my candidacy for the role in question and discuss it in person or over a virtual cup of coffee.
-
-I look forward to your response and your consideration is much appreciated.
-
-With kind regards & thanks in advance,
 
 Sincerely,
 
@@ -66,16 +59,17 @@ Boaz Rensenbrink
 
 Geachte mevrouw of mijnheer,
 
-Graag toon ik mijn interesse in uw openstaande vacature.
+ Op basis van mijn eigen ervaring zie ik hoe belangrijk de rol van Scrum Master is en welke impact het heeft op het gehele Scrum framework. Ik geloof in Agility en ik gedij in de dynamiek van een Scrum team.
+Om verschillende specialisten intensief samen te laten werken van hun eigen (non-IT) vakgebied en in korte tijd een kwallitatief hoogstaand werkend product te creeeren en te ontwikkelen, dat geeft mij een uitdaging!
 
--
-Ik geloof dat mijn enthousiasme, creativiteit en motivatie me zal leiden naar een onmisbare schakel die uw bedrijf fundamenteel helpt. 
+De meerwaarde van Agile werken inzichtelijk te maken, de Scrum-events implementeren en de team-seynergie ontwikkelen, dat zijn mijn doelen. Door collega's en management te coachen en hen bewust te maken van de werking van het Agile framework kan ik hun ook betrekken bij de ontwikkeling van de teams en aangeven wat er van hen verwacht wordt om het team te helpen ui te groeien naar hun eigen rol en verantwoordelijkheid. Dat gebeurd regelmatig aan de hand van theorie. maar pragmatische benadering heb ik nog liever. Samen aan het werk om iets te realiseren! 
+
+Ik ben me terdege bewust van de individuele wensen en behoeften van de teamleden en help hen te verkennen wat werkt binnen het grotere kader van Agile werken binnen Brunel.
+
+Jarenlange werkervaring in verschillende organisaties heeft mij veel inzichten gegeven over hoe ik het beste uit 'mijn' teams kan halen. Een open en transparante houding met een eerlijke dialoog is voor mij onmisbaar in een werkomgeving. Soms gaat dit vanzelf, maar net zo vaak is dit ook hard werken. Een gevoel van veiligheid binnen een team is hiervoor wat mij betreft een belangrijke bouwsteen.
 
 
-
-
-Ik kijk uit naar uw reactie en bedankt voor uw tijd. 
-
+Het zou geweldig zijn om mijn ervaring die ik benoem in mijn motivatiebrief en CV te bespreken om eventuele vragen te beantwoorden tijdens een persoonlijk gesprek of een virtueel kopje koffie.
 
 Met vriendelijke groeten en bij voorbaat dank, 
 
