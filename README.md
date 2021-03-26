@@ -60,7 +60,7 @@ Boaz Rensenbrink
 Geachte mevrouw of mijnheer,
 
  Op basis van mijn eigen ervaring zie ik hoe belangrijk de rol van Scrum Master is en welke impact het heeft op het gehele Scrum framework. Ik geloof in Agility en ik gedij in de dynamiek van een Scrum team.
-Om verschillende specialisten intensief samen te laten werken van hun eigen (non-IT) vakgebied en in korte tijd een kwallitatief hoogstaand werkend product te creeeren en te ontwikkelen, dat geeft mij een uitdaging!
+Om verschillende specialisten intensief samen te laten werken van hun eigen (non-IT) vakgebied en in korte tijd een kwallitatief hoogstaand werkend product te creëren en te ontwikkelen, dat geeft mij een uitdaging!
 
 De meerwaarde van Agile werken inzichtelijk te maken, de Scrum-events implementeren en de team-seynergie ontwikkelen, dat zijn mijn doelen. Door collega's en management te coachen en hen bewust te maken van de werking van het Agile framework kan ik hun ook betrekken bij de ontwikkeling van de teams en aangeven wat er van hen verwacht wordt om het team te helpen ui te groeien naar hun eigen rol en verantwoordelijkheid. Dat gebeurd regelmatig aan de hand van theorie. maar pragmatische benadering heb ik nog liever. Samen aan het werk om iets te realiseren! 
 
